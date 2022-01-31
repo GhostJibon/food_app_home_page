@@ -1,0 +1,44 @@
+name: ghostjibon
+description: A new Flutter project.
+
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.0
+  carousel_slider: ^3.0.0
+  like_button: 1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/foodimg.jpg
+    - images/all.jpg
+    - images/coffee.jpg
+    - images/drink.jpg
+    - images/fastfood.jpg
+    - images/cake.jpg
+    - images/sushi.jpg
+    - images/sliderimg.jpg
+    - images/burgerpic.jpg
+    - images/mcd.jpg
+    - images/star.jpg
+    - images/dom.jpg
+    - images/offer.png
+    - images/mcdcover.jpg
+
